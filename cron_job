@@ -1,0 +1,1 @@
+*/30 * * * * php -f <abs path>/autoInviteFromTypeformToSlackWorker.php >> <abs path>/logs/autoInviteFromTypeformToSlackWorker.txt
