@@ -1,4 +1,5 @@
 # join-slack
+Note: This App is no longer being used, Slack invites are now sent by Laddr
 This is a PHP Application from https://levels.io/slack-typeform-auto-invite-sign-ups/.
 Questions can be directed to Riley Childs: me <at> rileychilds <dot> me
 
